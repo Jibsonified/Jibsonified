@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jibsonified
 - 👀 I’m interested in Data Science and Artificial Intelligence
-- 🌱 I’m proficient in Python as a programming langauge. I am currently learning improving my skill in SQL
+- 🌱 I’m proficient in Python as a programming langauge. I am currently improving my skill in SQL
 - 💞️ I’m looking to collaborate on projects that are based on Language Models
 - 📫 How to reach me: ajibolataiwo2021@gmail.com
 - 😄 Pronouns: He/Him
